@@ -1,6 +1,6 @@
 # KyuAr
 
-KyuAr adalah alat simpel buat bikin QRIS (Quick Response Code Indonesian Standard) dengan nominal yang udah ditentukan. Cocok banget buat kamu yang jualan atau siapa aja yang mau bikin QRIS biar pembeli tinggal scan, nggak perlu ngetik nominal lagi.
+KyuAr adalah sebuah alat simpel buat bikin QRIS (Quick Response Code Indonesian Standard) dengan nominal yang udah ditentukan. Cocok banget buat kamu yang jualan atau siapa aja yang mau bikin QRIS biar pembeli tinggal scan, nggak perlu ngetik nominal lagi.
 
 ## Fitur
 - Bikin QRIS dengan nominal tetap (dynamic QRIS)
